@@ -1,4 +1,6 @@
-<div ><h1><img width=28px height=28px src="src/trello-mark-circle.svg">  Trello webscraper</h1></div>
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
+<div><h1><img width=28px height=28px src="src/trello-mark-circle.svg">  Trello webscraper</h1></div>
 It is a fun project , I was scheduling my 100 days what I will do so I was'nt gonna type day 1, day 2 ... so I made a python trello bot that write it for me.
 <br>
 <hr>
@@ -20,6 +22,6 @@ It is a fun project , I was scheduling my 100 days what I will do so I was'nt go
 <hr>
 <h3>How to run ?</h3>
 <code>python app.py</code>
-<h3>Here is a video of functioning of this bot.</h3>
-
+Here is a video of functioning of this bot.
+<br>
 <img src="https://user-images.githubusercontent.com/59202921/110029733-d6405100-7d5a-11eb-9d06-22016799c08b.gif">
