@@ -22,5 +22,4 @@ It is a fun project , I was scheduling my 100 days what I will do so I was'nt go
 <code>python app.py</code>
 <h3>Here is a video of functioning of this bot.</h3>
 
-https://user-images.githubusercontent.com/59202921/110029152-1e12a880-7d5a-11eb-9f8b-3aca43861044.mp4
-
+<img src="https://user-images.githubusercontent.com/59202921/110029733-d6405100-7d5a-11eb-9d06-22016799c08b.gif">
