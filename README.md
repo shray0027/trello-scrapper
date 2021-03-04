@@ -22,6 +22,7 @@ It is a fun project , I was scheduling my 100 days what I will do so I was'nt go
 <hr>
 <h3>How to run ?</h3>
 <code>python app.py</code>
+<hr>
 Here is a video of functioning of this bot.
 <br>
 <img src="https://user-images.githubusercontent.com/59202921/110029733-d6405100-7d5a-11eb-9d06-22016799c08b.gif">
