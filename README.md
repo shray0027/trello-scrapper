@@ -1,7 +1,7 @@
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
 <div><h1><img width=28px height=28px src="src/trello-mark-circle.svg">  Trello webscraper</h1></div>
-It is a fun project , I was scheduling my 100 days what I will do so I was'nt gonna type day 1, day 2 ... so I made a python trello bot that write it for me.
+It is a fun project , I was scheduling my 100 days ,so I was'nt gonna type day 1, day 2 ... so I made a python trello bot that write it for me.
 <br>
 <hr>
 <code>This code is according to Mac OS. If you want to use in other operating system then mention the respective path of chromedriver</code>
